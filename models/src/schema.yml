@@ -1,8 +1,0 @@
-version: 2
-
-models:
-    - name: src_listing
-    - name: src_reviews
-    - name: src_hosts
-
-    
